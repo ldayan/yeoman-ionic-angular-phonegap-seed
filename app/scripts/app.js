@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('yeomanIonicAngularPhonegapSeedApp', [
+angular.module('appNameApp', [
   'ngCookies',
   'ngResource',
   'ngRoute',

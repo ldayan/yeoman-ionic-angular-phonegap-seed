@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('yeomanIonicAngularPhonegapSeedApp')
+angular.module('appNameApp')
 .controller('MainCtrl', ['$scope', 'Countries', function ($scope, Countries) {
   $scope.onRefresh = function() {
     Countries.load().then(function(datas) {

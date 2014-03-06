@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('yeomanIonicAngularPhonegapSeedApp')
+angular.module('appNameApp')
 
 .value('serverUrl', 'http://www.geognos.com/api/en/countries/info/all.json')
 

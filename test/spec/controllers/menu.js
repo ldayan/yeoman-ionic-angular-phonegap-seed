@@ -3,7 +3,7 @@
 describe('Controller: MenuCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('yeomanIonicAngularPhonegapSeedApp'));
+  beforeEach(module('appNameApp'));
 
   var MenuCtrl,
     scope;

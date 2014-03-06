@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('yeomanIonicAngularPhonegapSeedApp').controller('MenuCtrl', ['$scope', function ($scope) {
+angular.module('appNameApp').controller('MenuCtrl', ['$scope', function ($scope) {
   $scope.openLeft = function() {
     $scope.sideMenuController.toggleLeft();
   };

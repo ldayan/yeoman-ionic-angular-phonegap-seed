@@ -7,6 +7,11 @@ This repository is a simple seed to get started on a new mobile project using Ye
 
 ## How to use it
 
+- Modify any instances of 'AppName' in the code to reflect the actual app name, preserving case. For instance, in the .cordova/config.json file "appnameapp" would become "leanmealsapp", and "AppName" becomes "LeanMeals".
+- Modify app/config.xml appropriately.
+- Modify package.json appropriately.
+- Modify bower.json appropriately.
+
 - `git clone https://github.com/MNCC/yeoman-ionic-angular-phonegap-seed`
 - `cd yeoman-ionic-angular-phonegap-seed`
 - `npm install`

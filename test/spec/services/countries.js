@@ -3,7 +3,7 @@
 describe('Service: Countries', function () {
 
   // load the service's module
-  beforeEach(module('yeomanIonicAngularPhonegapSeedApp'));
+  beforeEach(module('appNameApp'));
 
   // instantiate service
   var Countries;
